@@ -65,14 +65,16 @@ Run all cells
 🔹 Option 2: Locally
 Install Spark:
 
-bash
-Copy
-Edit
+```bash
 pip install pyspark
+```
 Run the script in Jupyter Notebook or any Python environment
 
 📈 Sample Output Screenshot
-(Optional: Add image of churn_rate_by_contract or prediction DataFrame)
+![Screenshot 2025-07-08 144756](https://github.com/user-attachments/assets/6cbc5cd2-1d85-44be-8e48-c88fc060d586)
+![Screenshot 2025-07-08 144725](https://github.com/user-attachments/assets/af8f4925-2597-4fd4-a0d3-aeb21e128184)
+![Screenshot 2025-07-08 144707](https://github.com/user-attachments/assets/a1cbab42-e8bd-41af-adc2-454b03d3f187)
+
 
 📘 Dataset Used
 Telco Customer Churn Dataset
